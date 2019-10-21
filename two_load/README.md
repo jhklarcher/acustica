@@ -1,3 +1,3 @@
-# Calculate Transmission Loss with the Two-Load Method
+# Calculate Transmission Loss using the Two-Load Method
 
-Script em MATLAB para calcular a Perda de Transmissão com um tubo de impedância e quatro posições de microfone e suas funções de transferência. Utiliza arquivos .ita do [ITA-Toolbox](http://www.ita-toolbox.org/). Feito com base na norma ASTM E2611-09.
+MATLAB script to calculate Transmission Loss with an impedance tube and four microphone positions and their transfer functions. Uses [ITA-Toolbox](http://www.ita-toolbox.org/) .ita files. Made based on ASTM E2611-09.
